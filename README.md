@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chetan-Hebbar
-I'm using this git branch to showcase and maintain projects that I 
+I'm using this git account to showcase and maintain projects that I 
 build on my journey to learn some practical applications for programming.
 I already have some light programming experience from college and previous
 jobs, so this space is more for me to play around and maintain a 'source of truth'
